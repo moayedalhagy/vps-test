@@ -15,5 +15,6 @@
     </head>
     <body class="antialiased">
         Hello from vs code
+        {{phpinfo();}}
     </body>
 </html>
